@@ -1,0 +1,19 @@
+body{
+    font-family: 'Russo One', sans-serif;
+    margin: 10vh 2vh;
+    background: radial-gradient( #e04014, #fe8c00, #e04014) no-repeat fixed;
+    background-size: cover;
+}
+
+.btn {
+    padding-top: 15px;
+}
+
+.content {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.content label{
+    font-size: 25px;
+}
